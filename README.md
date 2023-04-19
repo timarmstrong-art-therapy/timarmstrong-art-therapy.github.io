@@ -1,3 +1,4 @@
+theme:minima
 # heading1 example
 ## heading2 example
 ### heading3 example
